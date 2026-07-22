@@ -1,0 +1,17 @@
+[
+    {
+        "country":"France",
+        "capital":"Paris",
+        "population":68000000
+    },
+    {
+        "country":"Germany",
+        "capital":"Berlin",
+        "population":84000000
+    },
+    {
+        "country":"Italy",
+        "capital":"Rome",
+        "population":59000000
+    }
+]
