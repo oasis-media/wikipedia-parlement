@@ -168,7 +168,7 @@ for country, data in list(all_urls.items()):
         else:
             print(f"  [error] status {chamber_response.status_code} for {chamber['url']}")
 
-with open("hey.json", "w", encoding="utf-8") as f:
+with open("countries.json", "w", encoding="utf-8") as f:
     json.dump(all_urls, f, indent=4, ensure_ascii=False)
 
 
